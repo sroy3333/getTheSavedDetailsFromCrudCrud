@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     })
     .catch(error => console.error('Error fetching existing users:', error));
-  console.log(data)
+     console.log(data);
 });
   
 
